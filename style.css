@@ -1,1 +1,10 @@
-
+body{
+    background-color: blue;
+    color: white
+}
+ .gg{
+     margin-top: 0%;
+     background-color: greenyellow;
+    padding-left: 40%;
+    color: black
+ }
